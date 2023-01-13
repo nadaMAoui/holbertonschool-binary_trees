@@ -48,7 +48,7 @@ int sub_tree_perfect(const binary_tree_t *tree)
 /**
  *binary_tree_is_perfect - checks if binary tree is perfect
  *@tree: pointer to the root
- *Return: 0 or 1
+ *Return: 0 fail or 1 success
  */
 int binary_tree_is_perfect(const binary_tree_t *tree)
 {
